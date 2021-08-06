@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background: url("https://images.pexels.com/photos/1755243/pexels-photo-1755243.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    font-family: "Times New Roman", Times, Serif;
+  }
+  h1 {
+    font-size: 4.0em;
+  }
+  p {
+    font-size: 1.50em;
+  }
+  input {
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1em;
+      box-shadow: 2px 2px 8px black;
+  }
+  input[type="submit"] {
+    background: #FF8C00;
+    color: black;
+  }
+  Img{
+    max-width: 100%;
+    height: auto;
+    border: 0px;
+    border-radius: 75px;
+    margin: 45px 0px 0px 0px;
+  }
